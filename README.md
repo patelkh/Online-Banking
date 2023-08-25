@@ -1,4 +1,3 @@
-Author: Kay Patel
 This Java program is an online banking application designed to simulate basic banking operations, enabling users to manage checking accounts, perform financial transactions, and generate various reports. The application's graphical user interface (GUI) provides an intuitive platform for users to interact with the system.
 
 Upon launching the application, users are presented with a menu containing options to open and save account data from/to file, add new accounts, list transactions, list checks, list deposits, list service charges, find accounts, and list all accounts. These options allow users to perform a range of activities related to account management and financial tracking.
