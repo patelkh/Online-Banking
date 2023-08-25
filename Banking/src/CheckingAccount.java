@@ -1,6 +1,6 @@
 /*
 Author: Kay Patel
-Assignment #6
+
 The CheckingAccount class represents a bank checking account and offers functionalities to manage the account balance, track transactions, and calculate service charges. It maintains attributes such as the current balance, total service charges, transaction history, transaction count, and the number of violations (balance below $500). The class provides methods to retrieve the current balance in a formatted string, get the final balance after deducting service charges, access transaction details, and retrieve the number of transactions and violations. Additionally, it includes methods to update the account balance, add transactions, and increment counts.
  */
 

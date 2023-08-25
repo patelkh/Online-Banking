@@ -1,6 +1,6 @@
 /*
 Author: Kay Patel
-Assignment #6
+
 The Main class represents the main entry point of a program that simulates a banking application. It includes a graphical user interface (GUI) implemented using Swing components. The program allows users to perform various actions on a checking account, such as entering transactions, listing all transactions, listing checks, and listing deposits.
 
 The class initializes the GUI components, sets up the checking account object, and defines various service charges and minimum balance requirements. The program continuously displays the options panel until the user closes the application window.

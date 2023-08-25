@@ -1,6 +1,6 @@
 /*
 Author: Kay Patel
-Assignment #6
+
 The Transaction class represents an individual transaction within the checking account. It contains attributes such as the transaction number, transaction ID, and transaction amount. The class provides methods to retrieve these attributes, including the formatted transaction amount as a string. The transaction number represents the current value of transCount in the CheckingAccount class, while the transaction ID indicates the type of transaction (1 = check, 2 = deposit, 3 = service charge).
  */
 
